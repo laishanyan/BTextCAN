@@ -2,7 +2,7 @@
 
 ## 执行步骤
 
-### 1 Download the bert pre-trained language model into the bert_pretrain directory, which usually contains the following files. The download address is：https://github.com/ymcui
+### 1 Download the bert pre-trained language model into the strong(bert_pretrain) directory, which usually contains the following files. The download address is：https://github.com/ymcui
 
    &nbsp;&nbsp; pytorch_model.bin   
    &nbsp;&nbsp; bert_config.json   
