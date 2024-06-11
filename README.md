@@ -1,6 +1,6 @@
-# BTextCAN
+# BTextCAN: Consumer fraud detection via group perception
 
-## 执行步骤
+## Implementation steps
 
 ### 1 Download the bert pre-trained language model into the bert_pretrain directory, which usually contains the following files. The download address is：https://github.com/ymcui
 
